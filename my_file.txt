@@ -1,0 +1,6 @@
+This is the first line.
+Second line with a number: 42
+Third line: Hello, World!
+Fourth line appended.
+Fifth line appended: 3.14
+Sixth line appended: Goodbye!
